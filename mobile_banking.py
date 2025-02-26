@@ -16,7 +16,7 @@ def timer():
            
 #asking do you have bank account
 print("------------------------------------------")
-print("\tLEGEND MOBILE BANKING")
+print("\t MOBILE BANKING")
 print("------------------------------------------\n")
 print("Do you have BANK ACCOUNT in Legend Mobile Banking: ")
 print("1. Yes\n2. No\n")
